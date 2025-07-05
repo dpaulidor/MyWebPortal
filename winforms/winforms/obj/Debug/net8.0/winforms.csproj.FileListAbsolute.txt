@@ -1,0 +1,14 @@
+C:\Users\danik\source\repos\winforms\winforms\bin\Debug\net8.0\winforms.exe
+C:\Users\danik\source\repos\winforms\winforms\bin\Debug\net8.0\winforms.deps.json
+C:\Users\danik\source\repos\winforms\winforms\bin\Debug\net8.0\winforms.runtimeconfig.json
+C:\Users\danik\source\repos\winforms\winforms\bin\Debug\net8.0\winforms.dll
+C:\Users\danik\source\repos\winforms\winforms\bin\Debug\net8.0\winforms.pdb
+C:\Users\danik\source\repos\winforms\winforms\obj\Debug\net8.0\winforms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danik\source\repos\winforms\winforms\obj\Debug\net8.0\winforms.AssemblyInfoInputs.cache
+C:\Users\danik\source\repos\winforms\winforms\obj\Debug\net8.0\winforms.AssemblyInfo.cs
+C:\Users\danik\source\repos\winforms\winforms\obj\Debug\net8.0\winforms.csproj.CoreCompileInputs.cache
+C:\Users\danik\source\repos\winforms\winforms\obj\Debug\net8.0\winforms.dll
+C:\Users\danik\source\repos\winforms\winforms\obj\Debug\net8.0\refint\winforms.dll
+C:\Users\danik\source\repos\winforms\winforms\obj\Debug\net8.0\winforms.pdb
+C:\Users\danik\source\repos\winforms\winforms\obj\Debug\net8.0\winforms.genruntimeconfig.cache
+C:\Users\danik\source\repos\winforms\winforms\obj\Debug\net8.0\ref\winforms.dll

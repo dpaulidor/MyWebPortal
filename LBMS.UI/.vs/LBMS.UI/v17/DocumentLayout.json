@@ -1,0 +1,404 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danik\\source\\repos\\LBMS.UI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{234735BF-B208-4B37-96A9-03B2A4D0F3BC}|LBMS.UI.csproj|c:\\users\\danik\\source\\repos\\lbms.ui\\forms\\returndialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{234735BF-B208-4B37-96A9-03B2A4D0F3BC}|LBMS.UI.csproj|solutionrelative:forms\\returndialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234735BF-B208-4B37-96A9-03B2A4D0F3BC}|LBMS.UI.csproj|c:\\users\\danik\\source\\repos\\lbms.ui\\forms\\adduserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{234735BF-B208-4B37-96A9-03B2A4D0F3BC}|LBMS.UI.csproj|solutionrelative:forms\\adduserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234735BF-B208-4B37-96A9-03B2A4D0F3BC}|LBMS.UI.csproj|c:\\users\\danik\\source\\repos\\lbms.ui\\forms\\addbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{234735BF-B208-4B37-96A9-03B2A4D0F3BC}|LBMS.UI.csproj|solutionrelative:forms\\addbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234735BF-B208-4B37-96A9-03B2A4D0F3BC}|LBMS.UI.csproj|c:\\users\\danik\\source\\repos\\lbms.ui\\forms\\usermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{234735BF-B208-4B37-96A9-03B2A4D0F3BC}|LBMS.UI.csproj|solutionrelative:forms\\usermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234735BF-B208-4B37-96A9-03B2A4D0F3BC}|LBMS.UI.csproj|c:\\users\\danik\\source\\repos\\lbms.ui\\forms\\returnform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{234735BF-B208-4B37-96A9-03B2A4D0F3BC}|LBMS.UI.csproj|solutionrelative:forms\\returnform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234735BF-B208-4B37-96A9-03B2A4D0F3BC}|LBMS.UI.csproj|c:\\users\\danik\\source\\repos\\lbms.ui\\forms\\borrowform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{234735BF-B208-4B37-96A9-03B2A4D0F3BC}|LBMS.UI.csproj|solutionrelative:forms\\borrowform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234735BF-B208-4B37-96A9-03B2A4D0F3BC}|LBMS.UI.csproj|c:\\users\\danik\\source\\repos\\lbms.ui\\forms\\bookmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{234735BF-B208-4B37-96A9-03B2A4D0F3BC}|LBMS.UI.csproj|solutionrelative:forms\\bookmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234735BF-B208-4B37-96A9-03B2A4D0F3BC}|LBMS.UI.csproj|c:\\users\\danik\\source\\repos\\lbms.ui\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{234735BF-B208-4B37-96A9-03B2A4D0F3BC}|LBMS.UI.csproj|solutionrelative:forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234735BF-B208-4B37-96A9-03B2A4D0F3BC}|LBMS.UI.csproj|c:\\users\\danik\\source\\repos\\lbms.ui\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{234735BF-B208-4B37-96A9-03B2A4D0F3BC}|LBMS.UI.csproj|solutionrelative:forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466828AB-F2C3-49DB-80E1-7E43BE198A96}|..\\LBMS.BLL\\LBMS.BLL.csproj|c:\\users\\danik\\source\\repos\\lbms.bll\\borrowrecordbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466828AB-F2C3-49DB-80E1-7E43BE198A96}|..\\LBMS.BLL\\LBMS.BLL.csproj|c:\\users\\danik\\source\\repos\\lbms.bll\\lbms.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466828AB-F2C3-49DB-80E1-7E43BE198A96}|..\\LBMS.BLL\\LBMS.BLL.csproj|c:\\users\\danik\\source\\repos\\lbms.bll\\userbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466828AB-F2C3-49DB-80E1-7E43BE198A96}|..\\LBMS.BLL\\LBMS.BLL.csproj|c:\\users\\danik\\source\\repos\\lbms.bll\\bookbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E59D55C-327E-40AF-89E2-177C75A58484}|..\\LBMS.DAL\\LBMS.DAL.csproj|c:\\users\\danik\\source\\repos\\lbms.dal\\borrowrecorddal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E59D55C-327E-40AF-89E2-177C75A58484}|..\\LBMS.DAL\\LBMS.DAL.csproj|c:\\users\\danik\\source\\repos\\lbms.dal\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E59D55C-327E-40AF-89E2-177C75A58484}|..\\LBMS.DAL\\LBMS.DAL.csproj|c:\\users\\danik\\source\\repos\\lbms.dal\\bookdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E59D55C-327E-40AF-89E2-177C75A58484}|..\\LBMS.DAL\\LBMS.DAL.csproj|c:\\users\\danik\\source\\repos\\lbms.dal\\lbms.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E59D55C-327E-40AF-89E2-177C75A58484}|..\\LBMS.DAL\\LBMS.DAL.csproj|c:\\users\\danik\\source\\repos\\lbms.dal\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C3ED72-6CFD-430F-A064-1EE1369419B0}|..\\LBMS.Entities\\LBMS.Entities.csproj|c:\\users\\danik\\source\\repos\\lbms.entities\\borrowrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C3ED72-6CFD-430F-A064-1EE1369419B0}|..\\LBMS.Entities\\LBMS.Entities.csproj|c:\\users\\danik\\source\\repos\\lbms.entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C3ED72-6CFD-430F-A064-1EE1369419B0}|..\\LBMS.Entities\\LBMS.Entities.csproj|c:\\users\\danik\\source\\repos\\lbms.entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466828AB-F2C3-49DB-80E1-7E43BE198A96}|..\\LBMS.BLL\\LBMS.BLL.csproj|c:\\users\\danik\\source\\repos\\lbms.bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E59D55C-327E-40AF-89E2-177C75A58484}|..\\LBMS.DAL\\LBMS.DAL.csproj|c:\\users\\danik\\source\\repos\\lbms.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C3ED72-6CFD-430F-A064-1EE1369419B0}|..\\LBMS.Entities\\LBMS.Entities.csproj|c:\\users\\danik\\source\\repos\\lbms.entities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReturnDialog.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\danik\\source\\repos\\LBMS.UI\\Forms\\ReturnDialog.cs",
+              "RelativeDocumentMoniker": "Forms\\ReturnDialog.cs",
+              "ToolTip": "C:\\Users\\danik\\source\\repos\\LBMS.UI\\Forms\\ReturnDialog.cs [Design]",
+              "RelativeToolTip": "Forms\\ReturnDialog.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T19:06:24.787Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddUserForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\danik\\source\\repos\\LBMS.UI\\Forms\\AddUserForm.cs",
+              "RelativeDocumentMoniker": "Forms\\AddUserForm.cs",
+              "ToolTip": "C:\\Users\\danik\\source\\repos\\LBMS.UI\\Forms\\AddUserForm.cs [Design]",
+              "RelativeToolTip": "Forms\\AddUserForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T19:05:57.427Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddBookForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\danik\\source\\repos\\LBMS.UI\\Forms\\AddBookForm.cs",
+              "RelativeDocumentMoniker": "Forms\\AddBookForm.cs",
+              "ToolTip": "C:\\Users\\danik\\source\\repos\\LBMS.UI\\Forms\\AddBookForm.cs [Design]",
+              "RelativeToolTip": "Forms\\AddBookForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T19:05:41.118Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserManagementForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\danik\\source\\repos\\LBMS.UI\\Forms\\UserManagementForm.cs",
+              "RelativeDocumentMoniker": "Forms\\UserManagementForm.cs",
+              "ToolTip": "C:\\Users\\danik\\source\\repos\\LBMS.UI\\Forms\\UserManagementForm.cs [Design]",
+              "RelativeToolTip": "Forms\\UserManagementForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T19:05:21.04Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReturnForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\danik\\source\\repos\\LBMS.UI\\Forms\\ReturnForm.cs",
+              "RelativeDocumentMoniker": "Forms\\ReturnForm.cs",
+              "ToolTip": "C:\\Users\\danik\\source\\repos\\LBMS.UI\\Forms\\ReturnForm.cs [Design]",
+              "RelativeToolTip": "Forms\\ReturnForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T19:05:04.772Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BorrowForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\danik\\source\\repos\\LBMS.UI\\Forms\\BorrowForm.cs",
+              "RelativeDocumentMoniker": "Forms\\BorrowForm.cs",
+              "ToolTip": "C:\\Users\\danik\\source\\repos\\LBMS.UI\\Forms\\BorrowForm.cs [Design]",
+              "RelativeToolTip": "Forms\\BorrowForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T19:04:45.122Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookManagementForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\danik\\source\\repos\\LBMS.UI\\Forms\\BookManagementForm.cs",
+              "RelativeDocumentMoniker": "Forms\\BookManagementForm.cs",
+              "ToolTip": "C:\\Users\\danik\\source\\repos\\LBMS.UI\\Forms\\BookManagementForm.cs [Design]",
+              "RelativeToolTip": "Forms\\BookManagementForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T19:04:21.934Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\danik\\source\\repos\\LBMS.UI\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\danik\\source\\repos\\LBMS.UI\\Forms\\MainForm.cs [Design]",
+              "RelativeToolTip": "Forms\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T19:03:30.125Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\danik\\source\\repos\\LBMS.UI\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\danik\\source\\repos\\LBMS.UI\\Forms\\LoginForm.cs [Design]",
+              "RelativeToolTip": "Forms\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T19:02:42.115Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BorrowRecordBLL.cs",
+              "DocumentMoniker": "C:\\Users\\danik\\source\\repos\\LBMS.BLL\\BorrowRecordBLL.cs",
+              "RelativeDocumentMoniker": "..\\LBMS.BLL\\BorrowRecordBLL.cs",
+              "ToolTip": "C:\\Users\\danik\\source\\repos\\LBMS.BLL\\BorrowRecordBLL.cs",
+              "RelativeToolTip": "..\\LBMS.BLL\\BorrowRecordBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T18:59:30.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserBLL.cs",
+              "DocumentMoniker": "C:\\Users\\danik\\source\\repos\\LBMS.BLL\\UserBLL.cs",
+              "RelativeDocumentMoniker": "..\\LBMS.BLL\\UserBLL.cs",
+              "ToolTip": "C:\\Users\\danik\\source\\repos\\LBMS.BLL\\UserBLL.cs",
+              "RelativeToolTip": "..\\LBMS.BLL\\UserBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T18:59:13.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LBMS.BLL",
+              "DocumentMoniker": "C:\\Users\\danik\\source\\repos\\LBMS.BLL\\LBMS.BLL.csproj",
+              "RelativeDocumentMoniker": "..\\LBMS.BLL\\LBMS.BLL.csproj",
+              "ToolTip": "C:\\Users\\danik\\source\\repos\\LBMS.BLL\\LBMS.BLL.csproj*",
+              "RelativeToolTip": "..\\LBMS.BLL\\LBMS.BLL.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-30T18:58:59.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookBLL.cs",
+              "DocumentMoniker": "C:\\Users\\danik\\source\\repos\\LBMS.BLL\\BookBLL.cs",
+              "RelativeDocumentMoniker": "..\\LBMS.BLL\\BookBLL.cs",
+              "ToolTip": "C:\\Users\\danik\\source\\repos\\LBMS.BLL\\BookBLL.cs",
+              "RelativeToolTip": "..\\LBMS.BLL\\BookBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T18:58:51.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BorrowRecordDAL.cs",
+              "DocumentMoniker": "C:\\Users\\danik\\source\\repos\\LBMS.DAL\\BorrowRecordDAL.cs",
+              "RelativeDocumentMoniker": "..\\LBMS.DAL\\BorrowRecordDAL.cs",
+              "ToolTip": "C:\\Users\\danik\\source\\repos\\LBMS.DAL\\BorrowRecordDAL.cs",
+              "RelativeToolTip": "..\\LBMS.DAL\\BorrowRecordDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T18:58:29.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserDAL.cs",
+              "DocumentMoniker": "C:\\Users\\danik\\source\\repos\\LBMS.DAL\\UserDAL.cs",
+              "RelativeDocumentMoniker": "..\\LBMS.DAL\\UserDAL.cs",
+              "ToolTip": "C:\\Users\\danik\\source\\repos\\LBMS.DAL\\UserDAL.cs",
+              "RelativeToolTip": "..\\LBMS.DAL\\UserDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T18:58:10.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BookDAL.cs",
+              "DocumentMoniker": "C:\\Users\\danik\\source\\repos\\LBMS.DAL\\BookDAL.cs",
+              "RelativeDocumentMoniker": "..\\LBMS.DAL\\BookDAL.cs",
+              "ToolTip": "C:\\Users\\danik\\source\\repos\\LBMS.DAL\\BookDAL.cs",
+              "RelativeToolTip": "..\\LBMS.DAL\\BookDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T18:57:53.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "C:\\Users\\danik\\source\\repos\\LBMS.DAL\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "..\\LBMS.DAL\\DatabaseConnection.cs",
+              "ToolTip": "C:\\Users\\danik\\source\\repos\\LBMS.DAL\\DatabaseConnection.cs",
+              "RelativeToolTip": "..\\LBMS.DAL\\DatabaseConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T18:57:31.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LBMS.DAL",
+              "DocumentMoniker": "C:\\Users\\danik\\source\\repos\\LBMS.DAL\\LBMS.DAL.csproj",
+              "RelativeDocumentMoniker": "..\\LBMS.DAL\\LBMS.DAL.csproj",
+              "ToolTip": "C:\\Users\\danik\\source\\repos\\LBMS.DAL\\LBMS.DAL.csproj*",
+              "RelativeToolTip": "..\\LBMS.DAL\\LBMS.DAL.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-30T18:54:14.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BorrowRecord.cs",
+              "DocumentMoniker": "C:\\Users\\danik\\source\\repos\\LBMS.Entities\\BorrowRecord.cs",
+              "RelativeDocumentMoniker": "..\\LBMS.Entities\\BorrowRecord.cs",
+              "ToolTip": "C:\\Users\\danik\\source\\repos\\LBMS.Entities\\BorrowRecord.cs",
+              "RelativeToolTip": "..\\LBMS.Entities\\BorrowRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T18:57:12.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\danik\\source\\repos\\LBMS.Entities\\User.cs",
+              "RelativeDocumentMoniker": "..\\LBMS.Entities\\User.cs",
+              "ToolTip": "C:\\Users\\danik\\source\\repos\\LBMS.Entities\\User.cs",
+              "RelativeToolTip": "..\\LBMS.Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T18:56:53.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\danik\\source\\repos\\LBMS.Entities\\Book.cs",
+              "RelativeDocumentMoniker": "..\\LBMS.Entities\\Book.cs",
+              "ToolTip": "C:\\Users\\danik\\source\\repos\\LBMS.Entities\\Book.cs",
+              "RelativeToolTip": "..\\LBMS.Entities\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T18:56:37.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\danik\\source\\repos\\LBMS.BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\LBMS.BLL\\Class1.cs",
+              "ToolTip": "C:\\Users\\danik\\source\\repos\\LBMS.BLL\\Class1.cs",
+              "RelativeToolTip": "..\\LBMS.BLL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T18:52:22.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\danik\\source\\repos\\LBMS.DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\LBMS.DAL\\Class1.cs",
+              "ToolTip": "C:\\Users\\danik\\source\\repos\\LBMS.DAL\\Class1.cs",
+              "RelativeToolTip": "..\\LBMS.DAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T18:52:01.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\danik\\source\\repos\\LBMS.Entities\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\LBMS.Entities\\Class1.cs",
+              "ToolTip": "C:\\Users\\danik\\source\\repos\\LBMS.Entities\\Class1.cs",
+              "RelativeToolTip": "..\\LBMS.Entities\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T18:51:20.572Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
