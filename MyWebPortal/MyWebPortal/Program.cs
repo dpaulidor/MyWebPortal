@@ -9,6 +9,8 @@ builder.Services.AddControllersWithViews();
 // <<< AJOUTEZ CETTE LIGNE
 builder.Services.AddHttpClient<AgifyService>();
 builder.Services.AddHttpClient<IpInfoService>(); // <<< AJOUTEZ CETTE LIGNE
+// builder.Services.AddHttpClient<AlphaVantageService>(); // Vous pouvez commenter ou supprimer cette ligne si vous ne l'utilisez plus
+builder.Services.AddHttpClient<CoinGeckoService>(); // <<< AJOUTEZ CETTE LIGNE
 
 var app = builder.Build();
 
