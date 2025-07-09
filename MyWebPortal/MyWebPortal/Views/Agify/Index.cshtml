@@ -1,0 +1,61 @@
+﻿namespace MyWebPortal.Views.Agify
+{
+    public class Index
+    {
+    }
+}@* Views/Agify/Index.cshtml *@
+@model MonPortailWeb.Models.AgifyResponse // Déclare que cette vue peut recevoir un objet AgifyResponse
+
+@{
+    ViewData["Title"] = "Estimer l'âge par nom"; // Définit le titre de la page
+}
+
+<div class="text-center">
+    <h1 class="display-4">Estimer l'âge par nom</h1>
+    <p>Entrez un nom pour estimer l'âge moyen associé.</p>
+</div>
+
+<div class="row">
+    <div class="col-md-6 offset-md-3">
+        @* Utilise les classes Bootstrap pour centrer le contenu *@
+        <form asp-controller="Agify" asp-action="Index" method="post">
+            @* Formulaire qui envoie les données à l'action Index du contrôleur Agify *@
+            <div class="form-group">
+                <label for="name">Nom :</label>
+                <input type="text" class="form-control" id="name" name="name" placeholder="Entrez un nom" required>
+                @* asp-validation-for affichera les erreurs de validation pour le champ 'name' *@
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <button type="submit" class="btn btn-primary mt-3">Estimer l'âge</button>
+        </form>
+
+        @* Ce bloc ne s'affiche que si un modèle (AgifyResponse) a été passé à la vue (après une soumission réussie) *@
+        @if (Model != null && !string.IsNullOrEmpty(Model.Name))
+        {
+            <div class="mt-4 p-3 border rounded bg-light">
+                <h4>Résultat pour "@Model.Name" :</h4>
+                @if (Model.Age > 0) @* L'API Agify retourne 0 pour l'âge si le nom est inconnu *@
+                {
+                    <p>Âge estimé : <strong>@Model.Age</strong> ans</p>
+                    <p>Basé sur <strong>@Model.Count</strong> occurrences</p>
+                }
+                else
+                {
+                    <p>Aucune estimation d'âge trouvée pour ce nom. Cela peut arriver pour des noms rares ou inconnus.</p>
+                }
+            </div>
+        }
+
+        @* Ce bloc affiche les erreurs générales du modèle (celles ajoutées par ModelState.AddModelError("")) *@
+        @if (!ViewData.ModelState.IsValid && ViewData.ModelState[""] != null)
+        {
+            <div class="alert alert-danger mt-3">
+                @foreach (var error in ViewData.ModelState[""].Errors)
+                {
+                    <p>@error.ErrorMessage</p>
+                }
+            </div>
+        }
+    </div>
+</div>
+

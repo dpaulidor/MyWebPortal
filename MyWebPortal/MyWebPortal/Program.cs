@@ -1,7 +1,14 @@
+using MonPortailWeb.Services; // Ajoutez cette ligne
+
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+// <<< AJOUTEZ CETTE LIGNE
+builder.Services.AddHttpClient<AgifyService>();
+builder.Services.AddHttpClient<IpInfoService>(); // <<< AJOUTEZ CETTE LIGNE
 
 var app = builder.Build();
 

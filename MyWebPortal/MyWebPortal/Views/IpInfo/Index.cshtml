@@ -1,0 +1,53 @@
+@* Views/IpInfo/Index.cshtml *@
+@model MonPortailWeb.Models.IpInfoResponse
+
+@{
+    ViewData["Title"] = "Informations IP";
+}
+
+<div class="text-center mb-4">
+    <h1 class="display-4">Informations IP</h1>
+    <p class="lead">Entrez une adresse IP pour obtenir des détails géographiques et réseau.</p>
+</div>
+
+<div class="row justify-content-center">
+    <div class="col-md-6">
+        <div class="card shadow-sm p-4 mb-4">
+            <form asp-controller="IpInfo" asp-action="Index" method="post">
+                <div class="form-group mb-3">
+                    <label for="ipAddress" class="form-label">Adresse IP :</label>
+                    <input type="text" class="form-control" id="ipAddress" name="ipAddress" placeholder="Ex: 8.8.8.8 ou votre IP" required>
+                    <span class="text-danger">@Html.ValidationMessage("ipAddress")</span>
+                </div>
+                <button type="submit" class="btn btn-primary w-100">Obtenir les infos IP</button>
+            </form>
+        </div>
+
+        @if (Model != null && !string.IsNullOrEmpty(Model.Ip))
+        {
+        <div class="card shadow-sm p-4 mt-4">
+            <h4 class="card-title">Résultat pour "@Model.Ip" :</h4>
+            <div class="card-body">
+                @if (!string.IsNullOrEmpty(Model.City)) { <p class="card-text"><strong>Ville :</strong> @Model.City</p> }
+                @if (!string.IsNullOrEmpty(Model.Region)) { <p class="card-text"><strong>Région :</strong> @Model.Region</p> }
+                @if (!string.IsNullOrEmpty(Model.Country)) { <p class="card-text"><strong>Pays :</strong> @Model.Country</p> }
+                @if (!string.IsNullOrEmpty(Model.Loc)) { <p class="card-text"><strong>Latitude/Longitude :</strong> @Model.Loc</p> }
+                @if (!string.IsNullOrEmpty(Model.Org)) { <p class="card-text"><strong>Organisation :</strong> @Model.Org</p> }
+                @if (!string.IsNullOrEmpty(Model.Timezone)) { <p class="card-text"><strong>Fuseau horaire :</strong> @Model.Timezone</p> }
+                @if (!string.IsNullOrEmpty(Model.Hostname)) { <p class="card-text"><strong>Nom d'hôte :</strong> @Model.Hostname</p> }
+                @if (!string.IsNullOrEmpty(Model.Postal)) { <p class="card-text"><strong>Code postal :</strong> @Model.Postal</p> }
+            </div>
+        </div>
+        }
+
+        @if (!ViewData.ModelState.IsValid && ViewData.ModelState[""] != null)
+        {
+        <div class="alert alert-danger mt-3" role="alert">
+            @foreach (var error in ViewData.ModelState[""].Errors)
+                {
+            <p class="mb-0">@error.ErrorMessage</p>
+                }
+        </div>
+        }
+    </div>
+</div>
