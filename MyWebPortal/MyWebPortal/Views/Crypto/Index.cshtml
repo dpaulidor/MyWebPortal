@@ -17,30 +17,35 @@
             <form asp-controller="Crypto" asp-action="Index" method="post">
                 <div class="form-group mb-3">
                     <label for="CryptoId" class="form-label">Identifiant Crypto :</label>
-                    <input type="text" class="form-control" id="CryptoId" name="CryptoId" value="@Model.CryptoId" placeholder="Ex: bitcoin, ethereum" required>
+                    <!-- CORRECTION ICI : @Model?.CryptoId -->
+                    <input type="text" class="form-control" id="CryptoId" name="CryptoId" value="@Model?.CryptoId" placeholder="Ex: bitcoin, ethereum" required>
                     <span class="text-danger">@Html.ValidationMessage("CryptoId")</span>
                 </div>
                 <div class="form-group mb-3">
                     <label for="VsCurrency" class="form-label">Devise de comparaison :</label>
-                    <input type="text" class="form-control" id="VsCurrency" name="VsCurrency" value="@Model.VsCurrency" placeholder="Ex: usd, eur" required>
+                    <!-- CORRECTION ICI : @Model?.VsCurrency -->
+                    <input type="text" class="form-control" id="VsCurrency" name="VsCurrency" value="@Model?.VsCurrency" placeholder="Ex: usd, eur" required>
                     <span class="text-danger">@Html.ValidationMessage("VsCurrency")</span>
                 </div>
                 <button type="submit" class="btn btn-primary w-100">Obtenir le prix</button>
             </form>
         </div>
 
-        @if (Model != null && Model.Prices != null && Model.Prices.Any())
+        @if (Model?.Prices is not null && Model.Prices.Any())
         {
+            var cryptoData = Model;
+
             <div class="card shadow-sm p-4 mt-4">
-                <h4 class="card-title">Prix pour "@Model.CryptoId" :</h4>
+                <h4 class="card-title">Prix pour "@cryptoData.CryptoId" :</h4>
                 <div class="card-body">
-                    @foreach (var priceEntry in Model.Prices)
+                    @foreach (var priceEntry in cryptoData.Prices)
                     {
                         <p class="card-text"><strong>@priceEntry.Key.ToUpper() :</strong> @priceEntry.Value</p>
                     }
                 </div>
             </div>
         }
+
 
         @if (!ViewData.ModelState.IsValid && ViewData.ModelState[""] != null)
         {

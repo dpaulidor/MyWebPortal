@@ -1,8 +1,4 @@
-﻿namespace MyWebPortal.Views.Agify
-{
-    public class Index
-    {
-    }
+﻿
 }@* Views/Agify/Index.cshtml *@
 @model MonPortailWeb.Models.AgifyResponse // Déclare que cette vue peut recevoir un objet AgifyResponse
 
@@ -30,19 +26,15 @@
         </form>
 
         @* Ce bloc ne s'affiche que si un modèle (AgifyResponse) a été passé à la vue (après une soumission réussie) *@
-        @if (Model != null && !string.IsNullOrEmpty(Model.Name))
+        @if (Model is not null)
         {
-            <div class="mt-4 p-3 border rounded bg-light">
-                <h4>Résultat pour "@Model.Name" :</h4>
-                @if (Model.Age > 0) @* L'API Agify retourne 0 pour l'âge si le nom est inconnu *@
-                {
-                    <p>Âge estimé : <strong>@Model.Age</strong> ans</p>
-                    <p>Basé sur <strong>@Model.Count</strong> occurrences</p>
-                }
-                else
-                {
-                    <p>Aucune estimation d'âge trouvée pour ce nom. Cela peut arriver pour des noms rares ou inconnus.</p>
-                }
+            var agifyData = Model;
+            <div class="card shadow-sm p-4 mt-4">
+                <h4 class="card-title">Résultat pour  "@agifyData.Name" :</h4>
+                <div class="card-body">
+                    <p class="card-text"><strong>Âge estimé :</strong> @agifyData.Age ans</p>
+                    <p class="card-text"><strong>Basé sur :</strong> @agifyData.Count occurrences</p>
+                </div>
             </div>
         }
 

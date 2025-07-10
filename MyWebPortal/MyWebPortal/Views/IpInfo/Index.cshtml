@@ -23,22 +23,49 @@
             </form>
         </div>
 
-        @if (Model != null && !string.IsNullOrEmpty(Model.Ip))
+        @if (Model is not null)
         {
-        <div class="card shadow-sm p-4 mt-4">
-            <h4 class="card-title">Résultat pour "@Model.Ip" :</h4>
-            <div class="card-body">
-                @if (!string.IsNullOrEmpty(Model.City)) { <p class="card-text"><strong>Ville :</strong> @Model.City</p> }
-                @if (!string.IsNullOrEmpty(Model.Region)) { <p class="card-text"><strong>Région :</strong> @Model.Region</p> }
-                @if (!string.IsNullOrEmpty(Model.Country)) { <p class="card-text"><strong>Pays :</strong> @Model.Country</p> }
-                @if (!string.IsNullOrEmpty(Model.Loc)) { <p class="card-text"><strong>Latitude/Longitude :</strong> @Model.Loc</p> }
-                @if (!string.IsNullOrEmpty(Model.Org)) { <p class="card-text"><strong>Organisation :</strong> @Model.Org</p> }
-                @if (!string.IsNullOrEmpty(Model.Timezone)) { <p class="card-text"><strong>Fuseau horaire :</strong> @Model.Timezone</p> }
-                @if (!string.IsNullOrEmpty(Model.Hostname)) { <p class="card-text"><strong>Nom d'hôte :</strong> @Model.Hostname</p> }
-                @if (!string.IsNullOrEmpty(Model.Postal)) { <p class="card-text"><strong>Code postal :</strong> @Model.Postal</p> }
+            var ipData = Model; // <-- Crée une variable locale non-nulle
+
+            <div class="card shadow-sm p-4 mt-4">
+                <h4 class="card-title">Résultat pour l'IP "@ipData.Ip" :</h4>
+                <div class="card-body">
+                    @if (!string.IsNullOrEmpty(ipData.City))
+                    {
+                        <p class="card-text"><strong>Ville :</strong> @ipData.City</p>
+                    }
+                    @if (!string.IsNullOrEmpty(ipData.Region))
+                    {
+                        <p class="card-text"><strong>Région :</strong> @ipData.Region</p>
+                    }
+                    @if (!string.IsNullOrEmpty(ipData.Country))
+                    {
+                        <p class="card-text"><strong>Pays :</strong> @ipData.Country</p>
+                    }
+                    @if (!string.IsNullOrEmpty(ipData.Loc))
+                    {
+                        <p class="card-text"><strong>Latitude/Longitude :</strong> @ipData.Loc</p>
+                    }
+                    @if (!string.IsNullOrEmpty(ipData.Org))
+                    {
+                        <p class="card-text"><strong>Organisation :</strong> @ipData.Org</p>
+                    }
+                    @if (!string.IsNullOrEmpty(ipData.Timezone))
+                    {
+                        <p class="card-text"><strong>Fuseau horaire :</strong> @ipData.Timezone</p>
+                    }
+                    @if (!string.IsNullOrEmpty(ipData.Hostname))
+                    {
+                        <p class="card-text"><strong>Nom d'hôte :</strong> @ipData.Hostname</p>
+                    }
+                    @if (!string.IsNullOrEmpty(ipData.Postal))
+                    {
+                        <p class="card-text"><strong>Code postal :</strong> @ipData.Postal</p>
+                    }
+                </div>
             </div>
-        </div>
         }
+
 
         @if (!ViewData.ModelState.IsValid && ViewData.ModelState[""] != null)
         {
