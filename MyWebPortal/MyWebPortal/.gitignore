@@ -1,0 +1,21 @@
+﻿# Fichiers de configuration utilisateur de Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Dossier de cache de Visual Studio
+.vs/
+
+# Fichiers de sortie de compilation
+[Bb]in/
+[Oo]bj/
+
+# Fichiers générés par l'application
+[Ll]ogs/
+appsettings.Development.json
+
+# Autres
+*.log
+*.tmp
+*.bak

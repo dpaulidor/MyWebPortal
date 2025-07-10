@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MyWebPortal",
+    "\\MyWebPortal\\bin",
+    "\\MyWebPortal\\Controllers",
+    "\\MyWebPortal\\Models",
+    "\\MyWebPortal\\Views",
+    "\\MyWebPortal\\Views\\Agify",
+    "\\MyWebPortal\\Views\\Home",
+    "\\MyWebPortal\\Views\\IpInfo",
+    "\\MyWebPortal\\Views\\Shared"
+  ],
+  "SelectedNode": "\\MyWebPortal",
+  "PreviewInSolutionExplorer": false
+}

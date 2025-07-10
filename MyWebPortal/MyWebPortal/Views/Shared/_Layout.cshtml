@@ -4,9 +4,19 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] - MyWebPortal</title>
+
+    <!-- Ligne pour Bootstrap (assurez-vous que c'est la seule) -->
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+
+    <!-- Ligne pour Font Awesome (comme discuté précédemment) -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <!-- Ligne pour votre CSS personnalisé (décommentée ) -->
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+
+    <!-- Ligne pour les styles spécifiques à votre projet (décommentée) -->
     <link rel="stylesheet" href="~/MyWebPortal.styles.css" asp-append-version="true" />
+
 </head>
 <body>
     <header>
@@ -26,13 +36,13 @@
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Agify" asp-action="Index">Estimer l'âge</a> @* Ajoutez cette ligne *@
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Agify" asp-action="Index">Estimer l'âge</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="IpInfo" asp-action="Index">Infos IP</a> @* <<< AJOUTEZ CETTE LIGNE *@
+                            <a class="nav-link text-dark" asp-area="" asp-controller="IpInfo" asp-action="Index">Infos IP</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Crypto" asp-action="Index">Crypto</a> @* <<< AJOUTEZ CETTE LIGNE *@
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Crypto" asp-action="Index">Crypto</a>
                         </li>
                     </ul>
                 </div>

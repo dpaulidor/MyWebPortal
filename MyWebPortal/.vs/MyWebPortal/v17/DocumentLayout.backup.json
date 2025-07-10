@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danik\\source\\repos\\MyWebPortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16EEBDF5-F249-45DE-B807-2619E648B09D}|MyWebPortal\\MyWebPortal.csproj|c:\\users\\danik\\source\\repos\\mywebportal\\mywebportal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16EEBDF5-F249-45DE-B807-2619E648B09D}|MyWebPortal\\MyWebPortal.csproj|solutionrelative:mywebportal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16EEBDF5-F249-45DE-B807-2619E648B09D}|MyWebPortal\\MyWebPortal.csproj|c:\\users\\danik\\source\\repos\\mywebportal\\mywebportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16EEBDF5-F249-45DE-B807-2619E648B09D}|MyWebPortal\\MyWebPortal.csproj|solutionrelative:mywebportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16EEBDF5-F249-45DE-B807-2619E648B09D}|MyWebPortal\\MyWebPortal.csproj|c:\\users\\danik\\source\\repos\\mywebportal\\mywebportal\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16EEBDF5-F249-45DE-B807-2619E648B09D}|MyWebPortal\\MyWebPortal.csproj|solutionrelative:mywebportal\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16EEBDF5-F249-45DE-B807-2619E648B09D}|MyWebPortal\\MyWebPortal.csproj|c:\\users\\danik\\source\\repos\\mywebportal\\mywebportal\\mywebportal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{16EEBDF5-F249-45DE-B807-2619E648B09D}|MyWebPortal\\MyWebPortal.csproj|solutionrelative:mywebportal\\mywebportal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16EEBDF5-F249-45DE-B807-2619E648B09D}|MyWebPortal\\MyWebPortal.csproj|c:\\users\\danik\\source\\repos\\mywebportal\\mywebportal\\controllers\\cryptocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16EEBDF5-F249-45DE-B807-2619E648B09D}|MyWebPortal\\MyWebPortal.csproj|solutionrelative:mywebportal\\controllers\\cryptocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16EEBDF5-F249-45DE-B807-2619E648B09D}|MyWebPortal\\MyWebPortal.csproj|c:\\users\\danik\\source\\repos\\mywebportal\\mywebportal\\models\\agifyresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16EEBDF5-F249-45DE-B807-2619E648B09D}|MyWebPortal\\MyWebPortal.csproj|solutionrelative:mywebportal\\models\\agifyresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16EEBDF5-F249-45DE-B807-2619E648B09D}|MyWebPortal\\MyWebPortal.csproj|c:\\users\\danik\\source\\repos\\mywebportal\\mywebportal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16EEBDF5-F249-45DE-B807-2619E648B09D}|MyWebPortal\\MyWebPortal.csproj|solutionrelative:mywebportal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16EEBDF5-F249-45DE-B807-2619E648B09D}|MyWebPortal\\MyWebPortal.csproj|c:\\users\\danik\\source\\repos\\mywebportal\\mywebportal\\views\\ipinfo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16EEBDF5-F249-45DE-B807-2619E648B09D}|MyWebPortal\\MyWebPortal.csproj|solutionrelative:mywebportal\\views\\ipinfo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16EEBDF5-F249-45DE-B807-2619E648B09D}|MyWebPortal\\MyWebPortal.csproj|c:\\users\\danik\\source\\repos\\mywebportal\\mywebportal\\views\\crypto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16EEBDF5-F249-45DE-B807-2619E648B09D}|MyWebPortal\\MyWebPortal.csproj|solutionrelative:mywebportal\\views\\crypto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16EEBDF5-F249-45DE-B807-2619E648B09D}|MyWebPortal\\MyWebPortal.csproj|c:\\users\\danik\\source\\repos\\mywebportal\\mywebportal\\services\\coingeckoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16EEBDF5-F249-45DE-B807-2619E648B09D}|MyWebPortal\\MyWebPortal.csproj|solutionrelative:mywebportal\\services\\coingeckoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16EEBDF5-F249-45DE-B807-2619E648B09D}|MyWebPortal\\MyWebPortal.csproj|c:\\users\\danik\\source\\repos\\mywebportal\\mywebportal\\models\\coingeckopriceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16EEBDF5-F249-45DE-B807-2619E648B09D}|MyWebPortal\\MyWebPortal.csproj|solutionrelative:mywebportal\\models\\coingeckopriceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16EEBDF5-F249-45DE-B807-2619E648B09D}|MyWebPortal\\MyWebPortal.csproj|c:\\users\\danik\\source\\repos\\mywebportal\\mywebportal\\views\\agify\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16EEBDF5-F249-45DE-B807-2619E648B09D}|MyWebPortal\\MyWebPortal.csproj|solutionrelative:mywebportal\\views\\agify\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16EEBDF5-F249-45DE-B807-2619E648B09D}|MyWebPortal\\MyWebPortal.csproj|c:\\users\\danik\\source\\repos\\mywebportal\\mywebportal\\services\\ipinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16EEBDF5-F249-45DE-B807-2619E648B09D}|MyWebPortal\\MyWebPortal.csproj|solutionrelative:mywebportal\\services\\ipinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16EEBDF5-F249-45DE-B807-2619E648B09D}|MyWebPortal\\MyWebPortal.csproj|c:\\users\\danik\\source\\repos\\mywebportal\\mywebportal\\services\\agifyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16EEBDF5-F249-45DE-B807-2619E648B09D}|MyWebPortal\\MyWebPortal.csproj|solutionrelative:mywebportal\\services\\agifyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16EEBDF5-F249-45DE-B807-2619E648B09D}|MyWebPortal\\MyWebPortal.csproj|c:\\users\\danik\\source\\repos\\mywebportal\\mywebportal\\controllers\\ipinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16EEBDF5-F249-45DE-B807-2619E648B09D}|MyWebPortal\\MyWebPortal.csproj|solutionrelative:mywebportal\\controllers\\ipinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16EEBDF5-F249-45DE-B807-2619E648B09D}|MyWebPortal\\MyWebPortal.csproj|c:\\users\\danik\\source\\repos\\mywebportal\\mywebportal\\models\\ipinforesponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16EEBDF5-F249-45DE-B807-2619E648B09D}|MyWebPortal\\MyWebPortal.csproj|solutionrelative:mywebportal\\models\\ipinforesponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16EEBDF5-F249-45DE-B807-2619E648B09D}|MyWebPortal\\MyWebPortal.csproj|c:\\users\\danik\\source\\repos\\mywebportal\\mywebportal\\controllers\\agifycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16EEBDF5-F249-45DE-B807-2619E648B09D}|MyWebPortal\\MyWebPortal.csproj|solutionrelative:mywebportal\\controllers\\agifycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16EEBDF5-F249-45DE-B807-2619E648B09D}|MyWebPortal\\MyWebPortal.csproj|c:\\users\\danik\\source\\repos\\mywebportal\\mywebportal\\mywebportal.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{16EEBDF5-F249-45DE-B807-2619E648B09D}|MyWebPortal\\MyWebPortal.csproj|solutionrelative:mywebportal\\mywebportal.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\danik\\source\\repos\\MyWebPortal\\MyWebPortal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MyWebPortal\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\danik\\source\\repos\\MyWebPortal\\MyWebPortal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MyWebPortal\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-09T01:39:10.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\danik\\source\\repos\\MyWebPortal\\MyWebPortal\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "MyWebPortal\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\danik\\source\\repos\\MyWebPortal\\MyWebPortal\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "MyWebPortal\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-09T19:32:37.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyWebPortal.csproj",
+              "DocumentMoniker": "C:\\Users\\danik\\source\\repos\\MyWebPortal\\MyWebPortal\\MyWebPortal.csproj",
+              "RelativeDocumentMoniker": "MyWebPortal\\MyWebPortal.csproj",
+              "ToolTip": "C:\\Users\\danik\\source\\repos\\MyWebPortal\\MyWebPortal\\MyWebPortal.csproj",
+              "RelativeToolTip": "MyWebPortal\\MyWebPortal.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-08T18:26:34.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CryptoController.cs",
+              "DocumentMoniker": "C:\\Users\\danik\\source\\repos\\MyWebPortal\\MyWebPortal\\Controllers\\CryptoController.cs",
+              "RelativeDocumentMoniker": "MyWebPortal\\Controllers\\CryptoController.cs",
+              "ToolTip": "C:\\Users\\danik\\source\\repos\\MyWebPortal\\MyWebPortal\\Controllers\\CryptoController.cs",
+              "RelativeToolTip": "MyWebPortal\\Controllers\\CryptoController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAuwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T18:39:09.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AgifyResponse.cs",
+              "DocumentMoniker": "C:\\Users\\danik\\source\\repos\\MyWebPortal\\MyWebPortal\\Models\\AgifyResponse.cs",
+              "RelativeDocumentMoniker": "MyWebPortal\\Models\\AgifyResponse.cs",
+              "ToolTip": "C:\\Users\\danik\\source\\repos\\MyWebPortal\\MyWebPortal\\Models\\AgifyResponse.cs",
+              "RelativeToolTip": "MyWebPortal\\Models\\AgifyResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T00:46:24.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danik\\source\\repos\\MyWebPortal\\MyWebPortal\\Program.cs",
+              "RelativeDocumentMoniker": "MyWebPortal\\Program.cs",
+              "ToolTip": "C:\\Users\\danik\\source\\repos\\MyWebPortal\\MyWebPortal\\Program.cs",
+              "RelativeToolTip": "MyWebPortal\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T18:26:26.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\danik\\source\\repos\\MyWebPortal\\MyWebPortal\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyWebPortal\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\danik\\source\\repos\\MyWebPortal\\MyWebPortal\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MyWebPortal\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-10T03:03:30.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\danik\\source\\repos\\MyWebPortal\\MyWebPortal\\Views\\IpInfo\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyWebPortal\\Views\\IpInfo\\Index.cshtml",
+              "ToolTip": "C:\\Users\\danik\\source\\repos\\MyWebPortal\\MyWebPortal\\Views\\IpInfo\\Index.cshtml",
+              "RelativeToolTip": "MyWebPortal\\Views\\IpInfo\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-09T17:41:04.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\danik\\source\\repos\\MyWebPortal\\MyWebPortal\\Views\\Crypto\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyWebPortal\\Views\\Crypto\\Index.cshtml",
+              "ToolTip": "C:\\Users\\danik\\source\\repos\\MyWebPortal\\MyWebPortal\\Views\\Crypto\\Index.cshtml",
+              "RelativeToolTip": "MyWebPortal\\Views\\Crypto\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-09T18:40:09.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CoinGeckoService.cs",
+              "DocumentMoniker": "C:\\Users\\danik\\source\\repos\\MyWebPortal\\MyWebPortal\\Services\\CoinGeckoService.cs",
+              "RelativeDocumentMoniker": "MyWebPortal\\Services\\CoinGeckoService.cs",
+              "ToolTip": "C:\\Users\\danik\\source\\repos\\MyWebPortal\\MyWebPortal\\Services\\CoinGeckoService.cs",
+              "RelativeToolTip": "MyWebPortal\\Services\\CoinGeckoService.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T18:37:03.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CoinGeckoPriceResponse.cs",
+              "DocumentMoniker": "C:\\Users\\danik\\source\\repos\\MyWebPortal\\MyWebPortal\\Models\\CoinGeckoPriceResponse.cs",
+              "RelativeDocumentMoniker": "MyWebPortal\\Models\\CoinGeckoPriceResponse.cs",
+              "ToolTip": "C:\\Users\\danik\\source\\repos\\MyWebPortal\\MyWebPortal\\Models\\CoinGeckoPriceResponse.cs",
+              "RelativeToolTip": "MyWebPortal\\Models\\CoinGeckoPriceResponse.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T18:36:16.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\danik\\source\\repos\\MyWebPortal\\MyWebPortal\\Views\\Agify\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyWebPortal\\Views\\Agify\\Index.cshtml",
+              "ToolTip": "C:\\Users\\danik\\source\\repos\\MyWebPortal\\MyWebPortal\\Views\\Agify\\Index.cshtml",
+              "RelativeToolTip": "MyWebPortal\\Views\\Agify\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-09T00:52:36.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IpInfoService.cs",
+              "DocumentMoniker": "C:\\Users\\danik\\source\\repos\\MyWebPortal\\MyWebPortal\\Services\\IpInfoService.cs",
+              "RelativeDocumentMoniker": "MyWebPortal\\Services\\IpInfoService.cs",
+              "ToolTip": "C:\\Users\\danik\\source\\repos\\MyWebPortal\\MyWebPortal\\Services\\IpInfoService.cs",
+              "RelativeToolTip": "MyWebPortal\\Services\\IpInfoService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T17:37:16.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AgifyService.cs",
+              "DocumentMoniker": "C:\\Users\\danik\\source\\repos\\MyWebPortal\\MyWebPortal\\Services\\AgifyService.cs",
+              "RelativeDocumentMoniker": "MyWebPortal\\Services\\AgifyService.cs",
+              "ToolTip": "C:\\Users\\danik\\source\\repos\\MyWebPortal\\MyWebPortal\\Services\\AgifyService.cs",
+              "RelativeToolTip": "MyWebPortal\\Services\\AgifyService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwA8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T00:49:35.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IpInfoController.cs",
+              "DocumentMoniker": "C:\\Users\\danik\\source\\repos\\MyWebPortal\\MyWebPortal\\Controllers\\IpInfoController.cs",
+              "RelativeDocumentMoniker": "MyWebPortal\\Controllers\\IpInfoController.cs",
+              "ToolTip": "C:\\Users\\danik\\source\\repos\\MyWebPortal\\MyWebPortal\\Controllers\\IpInfoController.cs",
+              "RelativeToolTip": "MyWebPortal\\Controllers\\IpInfoController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAUwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T17:39:13.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IpInfoResponse.cs",
+              "DocumentMoniker": "C:\\Users\\danik\\source\\repos\\MyWebPortal\\MyWebPortal\\Models\\IpInfoResponse.cs",
+              "RelativeDocumentMoniker": "MyWebPortal\\Models\\IpInfoResponse.cs",
+              "ToolTip": "C:\\Users\\danik\\source\\repos\\MyWebPortal\\MyWebPortal\\Models\\IpInfoResponse.cs",
+              "RelativeToolTip": "MyWebPortal\\Models\\IpInfoResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T17:36:37.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AgifyController.cs",
+              "DocumentMoniker": "C:\\Users\\danik\\source\\repos\\MyWebPortal\\MyWebPortal\\Controllers\\AgifyController.cs",
+              "RelativeDocumentMoniker": "MyWebPortal\\Controllers\\AgifyController.cs",
+              "ToolTip": "C:\\Users\\danik\\source\\repos\\MyWebPortal\\MyWebPortal\\Controllers\\AgifyController.cs",
+              "RelativeToolTip": "MyWebPortal\\Controllers\\AgifyController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T00:50:26.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MyWebPortal",
+              "DocumentMoniker": "C:\\Users\\danik\\source\\repos\\MyWebPortal\\MyWebPortal\\MyWebPortal.csproj",
+              "RelativeDocumentMoniker": "MyWebPortal\\MyWebPortal.csproj",
+              "ToolTip": "C:\\Users\\danik\\source\\repos\\MyWebPortal\\MyWebPortal\\MyWebPortal.csproj",
+              "RelativeToolTip": "MyWebPortal\\MyWebPortal.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-09T00:02:06.576Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

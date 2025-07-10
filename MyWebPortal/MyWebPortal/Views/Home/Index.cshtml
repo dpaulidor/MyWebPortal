@@ -6,3 +6,42 @@
     <h1 class="display-4">Welcome</h1>
     <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
 </div>
+@* Views/Home/Index.cshtml *@
+@{
+    ViewData["Title"] = "Bienvenue sur Mon Portail Web";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Bienvenue sur Mon Portail Web Multifonctionnel !</h1>
+    <p class="lead">Votre plateforme unique pour accéder à divers services en ligne.</p>
+
+    <div class="row mt-5">
+        <div class="col-md-4">
+            <div class="card shadow-sm p-3 mb-4">
+                <div class="card-body">
+                    <h5 class="card-title"><i class="fas fa-question-circle fa-2x mb-3"></i><br />Estimer l'âge</h5>
+                    <p class="card-text">Découvrez l'âge moyen associé à un nom.</p>
+                    <a asp-controller="Agify" asp-action="Index" class="btn btn-outline-primary">Accéder</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card shadow-sm p-3 mb-4">
+                <div class="card-body">
+                    <h5 class="card-title"><i class="fas fa-map-marker-alt fa-2x mb-3"></i><br />Infos IP</h5>
+                    <p class="card-text">Obtenez des détails géographiques pour n'importe quelle adresse IP.</p>
+                    <a asp-controller="IpInfo" asp-action="Index" class="btn btn-outline-primary">Accéder</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card shadow-sm p-3 mb-4">
+                <div class="card-body">
+                    <h5 class="card-title"><i class="fas fa-coins fa-2x mb-3"></i><br />Crypto-monnaies</h5>
+                    <p class="card-text">Consultez les cours actuels des principales crypto-monnaies.</p>
+                    <a asp-controller="Crypto" asp-action="Index" class="btn btn-outline-primary">Accéder</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
